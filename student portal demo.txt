@@ -1,0 +1,9 @@
+student portal demo
+This is a Simple demo of a student portal application
+
+student information
+Name:[Enter Student Name]
+College ID:[enter college ID]
+course:[enter course name]
+fee structure:[Enter Fee Details]
+Contact:[Enter Email/phone]
